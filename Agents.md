@@ -1,0 +1,1 @@
+# We are building a custom LLM similar to GPT 3 from scratch
